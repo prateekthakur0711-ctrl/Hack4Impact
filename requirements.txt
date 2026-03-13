@@ -3,4 +3,4 @@ scipy
 matplotlib
 rich
 streamlit
-
+plotly

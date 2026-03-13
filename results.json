@@ -1,0 +1,21 @@
+{
+  "confidence_score": 0.9821524468028264,
+  "detected_frequency_hz": 240.0,
+  "error_m": 0.022448979591836782,
+  "estimated_distance_m": 4.177551020408163,
+  "impact_metrics": {
+    "assumptions": {
+      "automated_response_time_sec": 719.9999999999999,
+      "estimated_distance_m": 4.177551020408163,
+      "leak_rate_liters_per_sec": 2.5,
+      "manual_response_time_sec": 3600.0,
+      "response_time_improvement_fraction": 0.8,
+      "time_saved_sec": 2880.0
+    },
+    "estimated_water_saved_liters": 7200.0
+  },
+  "leak_detected": true,
+  "peak_lag_samples": 197,
+  "tdoa_s": 0.004467120181405895,
+  "true_distance_m": 4.2
+}

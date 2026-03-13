@@ -1,0 +1,17 @@
+{
+  "attenuation_power": 1.0,
+  "distance_a_m": 7.5,
+  "distance_b_m": 7.5,
+  "duration_s": 2.0,
+  "fs_hz": 44100,
+  "leak_distance_from_a_m": 7.5,
+  "leak_frequency_hz": 240.0,
+  "leak_narrowband_half_width_hz": 30.0,
+  "leak_narrowband_noise_std": 0.35,
+  "noise_std": 0.25,
+  "seed": 0,
+  "sensor_spacing_m": 15.0,
+  "speed_of_sound_m_s": 1480.0,
+  "tdoa_b_minus_a_s": 0.0,
+  "tdoa_b_minus_a_samples": 0.0
+}
